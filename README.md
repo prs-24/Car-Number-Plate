@@ -24,7 +24,7 @@ Install OpenCV using pip:
 ```bash
 pip install opencv-python
 ```
-##📁 File Structure
+📁 File Structure
 ```bash 
 CarPlateDetection/
 │
